@@ -1,1 +1,3 @@
-# Pranahitha_geointel
+# DES_OI_Pranahitha
+
+Open Innovation - Pranahitha
